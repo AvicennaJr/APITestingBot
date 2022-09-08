@@ -11,6 +11,7 @@ A Telegram bot to help developers test API endpoints.
 * Use `headers` to access endpoints
 * Post `params` and other `data` into endpoints
 
+
 ## How To Use
 
 ### Getting Data
@@ -48,9 +49,11 @@ To `delete` data from an endpoint use: `/delete [url] headers={'key':'value'}`
 
 Note that there is **NO SPACE** between `headers` and `=`
 
+
 ## Link To The Bot
 
 Click [Here](http://t.me/APIConsumerBot) to use the bot or follow the instructions below to host your own bot.
+
 
 ## Installation
 
@@ -82,6 +85,7 @@ app.run()
 That's it. Use your bot to test your APIs.
 
 *Note: After a successful authorization, the API key (`api_id` and `api_hash`) and the `bot_token` are no longer required. Read the [Pyrogram](https://docs.pyrogram.org/start/auth.html) documentation for more information.*
+
 
 ## License
 
