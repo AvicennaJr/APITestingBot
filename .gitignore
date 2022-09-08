@@ -1,0 +1,4 @@
+venv/
+pycon-tester.py
+api_consumer_bot.session
+__pycache__/
